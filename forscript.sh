@@ -9,6 +9,6 @@ for file in * ; do
     fi
 done
 
-
+echo hello
 
 exit 0
